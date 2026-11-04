@@ -12,7 +12,7 @@ int main() {
   auto start_time = omp_get_wtime(); // omp_get_wtime() is an OpenMP library routine
 
   // compute n points and test if they lie within the first quadrant of a unit circle
-  #pragma omp parallel
+#pragma omp parallel
     {
       // Assign each thread its own random number generator
       int num_threads = omp_get_num_threads();
