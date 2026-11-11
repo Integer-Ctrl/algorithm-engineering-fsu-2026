@@ -1,4 +1,4 @@
-# Exam Assignment 28.10.2026
+# Exam Assignment 04.11.2026
 
 ## Task 1
 > Read Chapter 3 titled Programming Multi-core and Shared Memory Multiprocessors Using OpenMP (pp. 47–78) in Introduction to Parallel Computing (Trobec et al., 2018)
