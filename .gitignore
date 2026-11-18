@@ -1,2 +1,10 @@
+# Executable files
 *.exe
+*.o
+
+# Builds
+build/
+
+# IDE settings
+.vscode/
 settings.json
